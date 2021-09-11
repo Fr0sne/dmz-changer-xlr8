@@ -8,7 +8,7 @@ from time import time, sleep
 # Endereço do Gateway
 url = "http://192.168.0.1"
 username = "NET_F2AA58"
-password = "2C9569F2AA58"
+password = "passhere"
 
 # Headers da requisição
 header = {
